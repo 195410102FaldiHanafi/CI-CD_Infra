@@ -1,3 +1,3 @@
-module github.com/girikuncoro/belajar-cicd-pemula
+module github.com/195410102FaldiHanafi/CI-CD_Infra
 
 go 1.17
