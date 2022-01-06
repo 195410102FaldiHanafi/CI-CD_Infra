@@ -1,2 +1,2 @@
-# belajar-cicd-pemula
-Repositori untuk belajar membuat CI/CD lewat Github Actions (dari video youtube https://youtube.com/user/girikuncoro))
+# 195410102-cicd-MuhamadNurfaldiHanafi
+Repositori untuk belajar membuat CI/CD lewat Github Actions 
